@@ -1,0 +1,23 @@
+{
+  "name": "challengearena-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for daily, brain, fitness, and fun challenges with leveling & streaks",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "lokijs": "^1.5.12",
+    "node-telegram-bot-api": "^0.65.1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "challenges",
+    "gamification",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
